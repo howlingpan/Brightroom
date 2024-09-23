@@ -50,8 +50,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftlang/swift-syntax.git",
       "state" : {
-        "revision" : "515f79b522918f83483068d99c68daeb5116342d",
-        "version" : "600.0.0-prerelease-2024-09-04"
+        "revision" : "cb53fa1bd3219b0b23ded7dfdd3b2baff266fd25",
+        "version" : "600.0.0"
       }
     },
     {
@@ -60,7 +60,7 @@
       "location" : "https://github.com/howlingpan/swift-verge.git",
       "state" : {
         "branch" : "main",
-        "revision" : "2bb88dfd931ace9b04abfea372a5524b2b6d583b"
+        "revision" : "f684015740f519f3ebc17fb151b6a4cccd875b0f"
       }
     },
     {
