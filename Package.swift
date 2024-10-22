@@ -4,7 +4,8 @@ import PackageDescription
 let package = Package(
   name: "Brightroom",
   platforms: [
-    .iOS(.v15)
+    .iOS(.v15),
+    .macOS(.v11),
   ],
   products: [
     .library(name: "BrightroomEngine", targets: ["BrightroomUI"]),
